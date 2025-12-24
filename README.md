@@ -1,6 +1,6 @@
 - Hi, I'm Jomar.
 - I'm a backend developer.
-- I just have fun creating.
+- I just have fun creating whatever idea comes to mind.
   ### Enhance
 
 
