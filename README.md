@@ -49,17 +49,6 @@ I'm a full-stack developer with a passion for **backend systems** and **AI/ML**.
 
 ---
 
-##  GitHub Stats
-
-<div align="center">
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jomarlub17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jomarlub17&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomarlub17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
-
-
 ## Current Vibe
 
 ```python
