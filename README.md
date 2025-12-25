@@ -1,4 +1,4 @@
-# 👋 Hey, I'm [Jomar Lubin]
+# Hey, I'm Jomar Lubin
 
 <div align="center">
   
@@ -10,18 +10,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a full-stack developer with a passion for **backend systems** and **AI/ML**. I love that moment when a random idea pops into my head and I get to bring it to life through code. Whether it's building robust APIs, training models, or crafting seamless user experiences, I'm all about creating things that actually work (and hopefully impress).
 
-- 🧠 Currently exploring the intersection of AI and practical applications
-- 💡 Always working on that next idea that won't let me sleep
-- 🔧 Building scalable backends and intelligent systems
-- 🌱 Learning something new every day (it's a requirement in this field)
+-  Currently exploring the intersection of AI and practical applications
+-  Always working on that next idea that won't let me sleep
+-  Building scalable backends and intelligent systems
+-  Learning something new every day (it's a requirement in this field)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -49,31 +49,18 @@ I'm a full-stack developer with a passion for **backend systems** and **AI/ML**.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jomarlub17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jomarlub17&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jomarlub17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF)
 
-</div>
 
----
-
-## 💡 Featured Projects
-
-<!-- Pin your best repositories and they'll show up here automatically, or manually link them below -->
-
-🔗 **[Project Name 1](link)** - Brief description of what it does  
-🔗 **[Project Name 2](link)** - Brief description of what it does  
-🔗 **[Project Name 3](link)** - Brief description of what it does
-
----
-
-## 🌟 Current Vibe
+## Current Vibe
 
 ```python
 class Developer:
@@ -92,14 +79,13 @@ me.say_hi()
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jomar-lubin-7ab4081b6/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jomarlubin17@icloud.com)
 
 </div>
 
@@ -107,9 +93,9 @@ me.say_hi()
 
 <div align="center">
   
-### 💭 *"The best time to plant a tree was 20 years ago. The second best time is now."*
+###  *"The best time to plant a tree was 20 years ago. The second best time is now."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=jomarlub17&color=00D9FF&style=flat-square)
 
 </div><!---
 jomarlub17/jomarlub17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
