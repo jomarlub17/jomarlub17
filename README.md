@@ -4,7 +4,7 @@
   
 ### Full-Stack Developer | Backend Enthusiast | AI/ML Explorer
 
-*I turn random 3 AM ideas into actual code*
+*I turn random 3 AM ideas into code*
 
 </div>
 
