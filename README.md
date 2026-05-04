@@ -29,7 +29,8 @@ I'm a full-stack developer with a passion for **backend systems** and **AI/ML**.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTML5](<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 100 100"><path fill="#E44D26" d="M14.021 90.035 6 0h88.187l-8.022 89.986L50.02 100"/><path fill="#F16529" d="M50.093 92.345V7.39h36.048L79.26 84.2"/><path fill="#EBEBEB" d="M22.383 18.401h27.71v11.036H34.488L35.51 40.74h14.584v11.01H25.397zm3.5 38.892h11.084l.778 8.824 12.348 3.305v11.522l-22.654-6.32"/><path fill="#fff" d="M77.706 18.401H50.044v11.036h26.64zM75.688 40.74H50.044v11.035h13.612l-1.288 14.342-12.324 3.305v11.473l22.606-6.271"/></svg><img width="100" height="100" alt="html5" src="https://github.com/user-attachments/assets/86f9743e-f2db-450d-8e73-1435f8152270" />
+)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Frameworks & Libraries
